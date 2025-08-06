@@ -44,5 +44,6 @@ Contains 46 features and 1879 anonymized patient records.
 This project demonstrates how combining machine learning with XAI can improve transparency and trust in predictive healthcare models. It provides actionable insights for early diabetes diagnosis and supports clinical decision-making.
 
 📬 Contact
-For questions or collaboration: Email: juweria14331@gmail.com
-LinkedIn: www.linkedin.com/in/syeda-salama-juweria-quadri-a198a4264
+For questions or collaboration: Email  : juweria14331@gmail.com
+
+LinkedIn : www.linkedin.com/in/syeda-salama-juweria-quadri-a198a4264
